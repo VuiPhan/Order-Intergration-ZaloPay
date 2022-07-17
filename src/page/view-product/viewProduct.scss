@@ -1,0 +1,13 @@
+.view-list-product{
+
+  .per-product{
+    display: grid;
+    grid-template-columns:repeat(4, 1fr);
+  }
+  &__header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:10px;
+  }
+}
