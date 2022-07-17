@@ -4,4 +4,5 @@ export interface ResponseCreateOrder{
 }
 interface InfoOrderZaloPay{
     order_url: string
+    test: string
 }
