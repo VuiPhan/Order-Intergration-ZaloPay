@@ -1,5 +1,3 @@
-
-
 export const LearnGit: React.FC<{  }> = props => {
     return (
         <div>
