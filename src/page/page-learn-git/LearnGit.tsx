@@ -9,7 +9,7 @@ export const LearnGit: React.FC<{  }> = props => {
             <h6>Thay doi lan 4</h6>
             <h6>Thay doi lan 5</h6>
             <h6>Thay doi lan 6</h6>
-            <h6>Thay doi lan 7</h6>
+            <h6>Thay doi lan 8</h6>
         </div>
     );
 };
